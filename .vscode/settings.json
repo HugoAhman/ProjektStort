@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "raymath.h": "c",
+        "type_traits": "c",
+        "limits": "c",
+        "ratio": "c",
+        "tuple": "c",
+        "variant": "c",
+        "time.h": "c",
+        "raylib.h": "c"
+    }
+}
